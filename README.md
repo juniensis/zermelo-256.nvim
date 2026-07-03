@@ -1,6 +1,6 @@
 # Zermelo
 
-A retro transparent-friendly xterm 256 colorscheme for NeoVim.
+A retro xterm 256 colorscheme for NeoVim.
 
 | Label        | Hex     |
 |--------------|---------|
